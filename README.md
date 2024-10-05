@@ -17,7 +17,7 @@
 
 
 ## 📸 Screenshots
-![SZmS62gDiIt1_1024_500](https://github.com/ataAy1/SairDunya/blob/master/docs/lHoQLGtvk1XS_1024_500.png)
+![lHoQLGtvk1XS_1024_500](https://github.com/user-attachments/assets/740c65b8-bb75-4841-8ed2-4b5941447999)
 
 <div style="text-align: center;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
